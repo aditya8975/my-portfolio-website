@@ -1,4 +1,4 @@
 # my-portfolio-website
 project portfolio website(aditya katare)
 
-http://abk.epizy.com/
+https://aditya8975.github.io/myweb.github.io/
